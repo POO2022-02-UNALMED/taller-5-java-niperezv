@@ -28,7 +28,7 @@ public class Anfibio extends Animal {
 		this.colorPiel = colorPiel;
 	}
 	//metodo_veneno
-	public boolean getVenenoso() {
+	public boolean isVenenoso() {
 		return venenoso;
 	}
 

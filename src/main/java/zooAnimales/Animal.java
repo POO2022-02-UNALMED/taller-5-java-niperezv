@@ -4,7 +4,7 @@ import gestion.Zona;
 import java.util.ArrayList;
 
 public class Animal {
-	private int totalAnimales = 0;
+	private static int totalAnimales = 0;
 	private String nombre;
 	private int edad;
 	private String habitat;

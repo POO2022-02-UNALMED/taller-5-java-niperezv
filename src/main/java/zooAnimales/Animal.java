@@ -28,7 +28,7 @@ public class Animal {
 		return totalAnimales;
 	}
 	public void setTotalAnimales(int totalAnimales) {
-		this.totalAnimales = totalAnimales;
+		Animal.totalAnimales = totalAnimales;
 	}
 	
 	//metodos_nombre

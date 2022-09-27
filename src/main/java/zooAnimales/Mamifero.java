@@ -23,7 +23,7 @@ public class Mamifero extends Animal {
 	}
 	
 	//metodos_pelaje
-	public boolean getPelaje() {
+	public boolean isPelaje() {
 		return pelaje;
 	}
 	public void setPelaje(boolean pelaje) {
